@@ -242,6 +242,9 @@
   .grid-cols-\[1fr_250px\] {
     grid-template-columns: 1fr 250px;
   }
+  .grid-cols-\[1fr_auto\] {
+    grid-template-columns: 1fr auto;
+  }
   .grid-cols-\[1fr_repeat\(2\,150px\)\] {
     grid-template-columns: 1fr repeat(2,150px);
   }
